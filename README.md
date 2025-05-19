@@ -125,37 +125,6 @@ Our approach to analyzing the bank loan data involved a multi-step, systematic p
 ### Detailed Insights Interface
 ![details](https://github.com/Hannah-Ajibola/Bank-Loan-Segmentation-using-SQL-Excel-Tableau/blob/c032370053f5675a277a63adc47c5027384fadce/assets/details.jpg)
 
----
-
-## Data Visualization Interfaces
-
-Dive deeper into our bank loan analysis project with our interactive data visualization dashboards! These dashboards offer a compelling way to explore the data and gain valuable insights.
-
-<table>
-  <tr>
-    <th>Tool</th>
-    <th>Power BI</th>
-    <th>Tableau</th>
-  </tr>
-  <tr>
-    <td><strong>Link</strong></td>
-    <td align="center"><a href="https://app.powerbi.com/links/TKA2t1DcsX?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare"><img src="https://img.shields.io/badge/Microsoft%20Power%20BI-View%20Dashboard-gold?logo=powerbi" alt="Power BI"></a></td>
-    <td align="center"><a href="https://public.tableau.com/app/profile/viraj.bhutada/viz/BankLoanReport_17159359867640/Summary"><img src="https://img.shields.io/badge/Tableau%20Public-Explore%20Data%20Viz-lightblue?logo=tableau" alt="Tableau"></a></td>
-  </tr>
-  <tr>
-    <td><strong>Overview</strong></td>
-    <td>This report provides comprehensive visualizations of key metrics related to the bank loan analysis.</td>
-    <td>This Data Viz offers a complementary view of the data, focusing on different aspects of the bank loan analysis.</td>
-  </tr>
-  <tr>
-    <td><strong>Features</strong></td>
-    <td>• Explore loan performance trends.<br>• Identify patterns in borrower demographics.<br>• Gain deeper understanding through interactive filters and drill-downs.</td>
-    <td>• Utilize interactive charts and graphs.<br>• Uncover relationships and trends.<br>• Gain a well-rounded perspective on the loan portfolio.</td>
-  </tr>
-</table>
-
----
-
 ## Terminologies Used in Data
 
 | **Field**               | **Purpose**                                                                                                                                          | **Use for Banks**                                                                                                                       |
@@ -193,27 +162,6 @@ Dive deeper into our bank loan analysis project with our interactive data visual
 - **Power BI Desktop**: For creating and viewing dashboards.
 - **Tableau Desktop**: For advanced data visualization and interactive dashboards.
 
-### Installation and Setup
-
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/bank-loan-analysis.git
-    ```
-2. **Database Setup**:
-    - Use the provided [SQL](https://github.com/Hannah-Ajibola/Bank-Loan-Segmentation-using-SQL-Excel-Tableau/blob/c032370053f5675a277a63adc47c5027384fadce/sql/loan_queries.sql) script to set up the database in SQL Management Server.
-    - Import the loan dataset into the created database.
-
-3. **Excel Setup**:
-    - Open the provided [Excel file](https://github.com/Hannah-Ajibola/Bank-Loan-Segmentation-using-SQL-Excel-Tableau/blob/c032370053f5675a277a63adc47c5027384fadce/excel/loan_data_analysis.xlsx) to review preliminary analyses and data processing steps.
-
-4. **Power BI Setup**:
-    - Open the provided [Power BI](https://github.com/Hannah-Ajibola/Bank-Loan-Segmentation-using-SQL-Excel-Tableau/blob/c032370053f5675a277a63adc47c5027384fadce/powerBI/bank_loan_data_insights.pbix) file.
-    - Connect the BI file to your SQL Server database.
-
-5. **Tableau Setup**:
-    - Open the provided [Tableau](https://github.com/Hannah-Ajibola/Bank-Loan-Segmentation-using-SQL-Excel-Tableau/tree/c032370053f5675a277a63adc47c5027384fadce/tableau) workbook.
-    - Connect the Tableau workbook to your SQL Server database.
-
 ### Running the Analysis
 
 - **SQL Queries**:
@@ -227,41 +175,6 @@ Dive deeper into our bank loan analysis project with our interactive data visual
   - Open Tableau and refresh the data connections.
   - Navigate through the dashboards for interactive visualizations.
 
----
-
-## Contribution
-
-If you'd like to contribute to this project, please follow the standard fork, branch, pull request workflow.
-
-1. **Fork the Repository**: Fork the repository to your own GitHub account.
-
-2. **Create a New Branch**: Create a new branch off the `main` branch for your feature or bug fix.
-
-    ```bash
-    git checkout -b feature-branch
-    ```
-
-3. **Make Your Changes**: Make your desired changes to the codebase.
-
-4. **Commit Your Changes**: Commit your changes with a descriptive commit message.
-
-    ```bash
-    git commit -m "Add new feature"
-    ```
-
-5. **Push to the Branch**: Push your changes up to your forked repository.
-
-    ```bash
-    git push origin feature-branch
-    ```
-
-6. **Open a Pull Request**: Open a pull request from your forked branch to the main repository’s `main` branch. Provide a clear description of your changes and any relevant context.
-
-Your pull request will be reviewed, and once approved, it will be merged into the main project. Thank you for your contribution!
-
-
----
-
 ## Conclusion
 
 This project has provided valuable insights into the bank's loan portfolio, highlighting trends in loan applications, funding, repayment statuses, and borrower demographics. Through rigorous data analysis using SQL, Excel, Power BI, and Tableau, actionable insights have been uncovered that can inform strategic decision-making within the organization.
@@ -270,5 +183,5 @@ The visualizations and findings presented in the Power BI and Tableau dashboards
 
 Thank you for exploring the bank loan analysis project. We look forward to continuing to leverage data-driven approaches to drive business forward.
 
-Hannah.
+
 
